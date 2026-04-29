@@ -1,24 +1,41 @@
-<h1 align="center">
-  FrenchFive
-</h1>
-<p align="center"><strong>FX Artist & Creative Coder building tools that make imagination procedural.</strong></p>
+<h1 align="center">FrenchFive</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Houdini-FX%20Art-orange?logo=houdini" alt="Houdini Badge"/>
-  <img src="https://img.shields.io/badge/Python-Scripting-blue?logo=python" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/VEX-Procedural-purple" alt="VEX Badge"/>
-  <img src="https://img.shields.io/badge/React-UI-61DAFB?logo=react" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase" alt="Supabase Badge"/>
-  <img src="https://img.shields.io/badge/AI-Automation-FFEA00?logo=openai" alt="AI Automation Badge"/>
-  <img src="https://img.shields.io/badge/OBS/Twitch-Streaming-9147FF?logo=twitch" alt="OBS/Twitch Badge"/>
+  <strong>FX Artist &amp; Creative Coder · London</strong><br/>
+  <em>Turning imagination into procedural systems — one sim, one script, one duck at a time.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Houdini-FF4713?logo=houdini&logoColor=white&style=flat-square" alt="Houdini"/>
+  <img src="https://img.shields.io/badge/VEX-9B4DCA?style=flat-square" alt="VEX"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" alt="React"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase"/>
 </p>
 
 ---
 
-## 🪄 About Me
-<!-- Fallback emoji option: ✨ if 🪄 doesn't render well -->
-Hi! I’m Chan (aka FrenchFive) — I fuse FX artistry with creative coding to build procedural tools, bots, automation pipelines, and interactive AI-powered experiments.  
-Current playgrounds: real-time generative FX, stream automation, creative knowledge navigation, and playful bots (ducks included).
+## 🪄 About
+
+I'm Chan — Five online.
+
+FX work pays the bills. The rest of the time I build things nobody asked for: a plant app, a Discord bot, an offline word journal, automation pipelines, the occasional duck. My brain defaults to procedural — give me a system to model and a few hours and I'm happy.
+
+This page is where the side-projects live.
+
+---
+
+## 🎬 FX &amp; Houdini
+
+Most of my work lives behind NDAs and isn't mine to share. But this is roughly what I'm in all day:
+
+- 🌊 **Simulation** — smoke, fire, destruction, environmental FX
+- 🌀 **Procedural modeling** — VEX generators, parametric assets, custom HDAs
+- 🛠️ **Pipeline tooling** — Python that takes the boring parts off artists' plates
+- 🧪 **Nerd-sniped by** — Copernicus (COP) image processing in Houdini
+
+The Houdini bits I *can* share — VEX snippets, HDAs, Python — live at [`FrenchFive/VEX`](https://github.com/FrenchFive/VEX). Grab whatever's useful. Want a showreel? Ping me.
 
 ---
 
@@ -26,86 +43,72 @@ Current playgrounds: real-time generative FX, stream automation, creative knowle
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <a href="https://quackers.app">
-        <img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="90" alt="Quackers Duck Typing"/>
-        <br/><strong>Quackers</strong>
-      </a>
-      <br/>🦆 Discord bot for games & AI chat (playful automation + personality)
+    <td align="center" width="220" valign="top">
+      <a href="https://github.com/Duckxel/PlantSwipe"><h3>🌱 Aphylia</h3></a>
+      Plant discovery &amp; care PWA.<br/>
+      Swipe-based UX, AI-assisted ID, shipping with a 3-person team.<br/><br/>
+      <sub><code>React</code> · <code>TypeScript</code> · <code>Supabase</code></sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/FrenchFive/K100DRA">
-        <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="90" alt="Video Editing Timeline"/>
-        <br/><strong>K100DRA</strong>
-      </a>
-      <br/>🎬 Reddit ➜ YouTube Shorts automation pipeline
+    <td align="center" width="220" valign="top">
+      <a href="https://github.com/FrenchFive/Quackers"><h3>🦆 Quackers</h3></a>
+      Discord bot for games, economy &amp; AI chat.<br/>
+      Personality-first automation.<br/><br/>
+      <sub><code>Python</code> · <code>Discord API</code></sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/FrenchFive/PlantSwipe">
-        <!-- New PlantSwipe GIF: subtle plant growth / nature loop -->
-        <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="90" alt="Growing Plant Loop"/>
-        <br/><strong>PlantSwipe</strong>
-      </a>
-      <br/>🌱 Swipe-based discovery for plants
+    <td align="center" width="220" valign="top">
+      <a href="https://github.com/FrenchFive/K100DRA"><h3>🎬 K100DRA</h3></a>
+      Reddit ➜ YouTube Shorts pipeline.<br/>
+      Scrape, rewrite, synth, render — fully automated.<br/><br/>
+      <sub><code>Python</code> · <code>OpenAI</code> · <code>FFmpeg</code></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/FrenchFive/InfiniteWiki">
-        <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="90" alt="Expanding Network Nodes"/>
-        <br/><strong>InfiniteWiki</strong>
-      </a>
-      <br/>🧭 AI-guided exploratory knowledge graph
+    <td align="center" width="220" valign="top">
+      <a href="https://github.com/FrenchFive/InfiniteWiki"><h3>🧭 InfiniteWiki</h3></a>
+      AI-guided exploratory knowledge graph.<br/>
+      Wander instead of search.<br/><br/>
+      <sub><code>React</code> · <code>LLM</code></sub>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/FrenchFive/Flute">
-        <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="90" alt="Animated Audio Waveform"/>
-        <br/><strong>Flute</strong>
-      </a>
-      <br/>🎵 Audio ➜ MIDI converter
+    <td align="center" width="220" valign="top">
+      <a href="https://github.com/FrenchFive/PonderHub"><h3>📖 PonderHub</h3></a>
+      Offline-first personal word encyclopedia.<br/>
+      Add, tag &amp; search your own definitions — 100% local, no account.<br/><br/>
+      <sub><code>TypeScript</code> · <code>Vite</code> · <code>Capacitor</code></sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="90" alt="Procedural Abstract Geometry"/>
-      <br/><strong>Coming Soon</strong>
-      <br/>✨ Another procedural experiment
+    <td align="center" width="220" valign="top">
+      <a href="https://github.com/FrenchFive/GroceryRecipe"><h3>🛒 GroceryRecipe</h3></a>
+      Plan meals, auto-generate the shopping list,<br/>
+      share it. PWA + Android APK.<br/><br/>
+      <sub><code>JavaScript</code> · <code>Capacitor</code> · <code>PWA</code></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧠 Core Stack & Creative Tooling
+## 🧠 Stack
 
 | Domain | Tools |
 | ------ | ----- |
-| Procedural / FX | Houdini, VEX, Python |
-| Frontend / UI | React, Tailwind (if used), Canvas / WebGL noodling |
-| Backend / Data | Supabase, edge functions, REST / WebSocket |
-| Automation / AI | Python scripts, OpenAI / local models, workflow orchestration |
-| Streaming / Bots | OBS integrations, Twitch & Discord APIs |
-| Experiments | Prompt chaining, knowledge graphs, audio analysis |
+| **Procedural / FX** | Houdini · VEX · Python · COP / Solaris |
+| **Frontend** | React · TypeScript · Tailwind · Canvas / WebGL |
+| **Backend / Data** | Supabase · Edge Functions · REST / WebSocket |
+| **Automation / AI** | Python · OpenAI · workflow orchestration |
+| **Streaming / Bots** | OBS · Twitch &amp; Discord APIs |
 
 ---
 
-## 📚 LeetCode Progress
+## 📊 The numbers
 
 <p align="center">
   <a href="https://leetcode.com/u/frenchfive/">
     <img src="https://leetcard.jacoblin.cool/frenchfive?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats Card"/>
   </a>
-  <br/>
-  <img src="https://leetcode-stats-six.vercel.app/api?username=frenchfive&theme=dark" alt="LeetCode Performance Graph" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrenchFive&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrenchFive&theme=tokyonight" height="150" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-contribution-graph.vercel.app/api?username=FrenchFive&bg=tokyonight" height="140" alt="Contribution Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FrenchFive&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FrenchFive&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -113,28 +116,13 @@ Current playgrounds: real-time generative FX, stream automation, creative knowle
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://twitch.tv/french_five"><img src="https://img.shields.io/badge/Twitch-french__five-9147FF?logo=twitch&style=for-the-badge" alt="Twitch"/></a>
-  <a href="https://youtube.com/@k100dra5"><img src="https://img.shields.io/badge/YouTube-K100DRA5-FF0000?logo=youtube&style=for-the-badge" alt="YouTube K100DRA5"/></a>
-  <a href="https://youtube.com/@chan_ahhong"><img src="https://img.shields.io/badge/YouTube-Chan__AhHong-FF0000?logo=youtube&style=for-the-badge" alt="YouTube Chan AhHong"/></a>
-  <a href="https://quackers.app"><img src="https://img.shields.io/badge/Website-quackers.app-1E90FF?style=for-the-badge" alt="Website"/></a>
+  <a href="https://twitch.tv/french_five"><img src="https://img.shields.io/badge/Twitch-french__five-9147FF?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch"/></a>
+  <a href="https://youtube.com/@k100dra5"><img src="https://img.shields.io/badge/YouTube-K100DRA5-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube K100DRA5"/></a>
+  <a href="https://youtube.com/@chan_ahhong"><img src="https://img.shields.io/badge/YouTube-Chan__AhHong-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Chan AhHong"/></a>
+  <a href="https://aphylia.app"><img src="https://img.shields.io/badge/Aphylia-1BAA5D?style=for-the-badge" alt="Aphylia"/></a>
+  <a href="https://quackers.app"><img src="https://img.shields.io/badge/Quackers-1E90FF?style=for-the-badge" alt="Quackers"/></a>
 </p>
 
 ---
 
-<p align="center" style="font-size:1.15em;">
-  <b>✨ FIVE — making creative tech, one duck at a time.</b>
-</p>
-
-<!--
-STATIC ICON ALTERNATIVES (swap if too many GIFs):
-Quackers: https://static.thenounproject.com/png/781479-200.png
-K100DRA: https://static.thenounproject.com/png/2215779-200.png (film reel)
-PlantSwipe: https://static.thenounproject.com/png/2110219-200.png (leaf)
-InfiniteWiki: https://static.thenounproject.com/png/3625235-200.png (network)
-Flute: https://static.thenounproject.com/png/1402043-200.png (waveform)
-
-ALTERNATE PLANTSWIPE GIF OPTIONS:
-1) https://media.giphy.com/media/26gslU06qL6m8ZzUI/giphy.gif (close-up sprout)
-2) https://media.giphy.com/media/26xBukh4z3p5H8S7y/giphy.gif (looping leaves)
-3) https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif (gentle nature loop)
--->
+<p align="center"><sub>✨ <b>FIVE</b> — making creative tech, one duck at a time.</sub></p>
